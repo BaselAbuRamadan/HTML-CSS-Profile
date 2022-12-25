@@ -1,0 +1,28 @@
+body{
+  background-color: #EAF6F6;
+
+}
+hr{
+  background-color: white;
+  height: 0px;
+  width: 15%;
+  border-width: 5px;
+  border-style: none;
+  border-top-style:dotted;
+  border-color: grey;
+}
+h1,h3{
+  color: #66BFBF;
+}
+ul.myUL {
+  display: inline-block;
+  text-align: center;
+}
+table.mytable{
+  display: inline-block;
+  text-align: right;
+}
+.flex{
+  display: flex;
+
+}
